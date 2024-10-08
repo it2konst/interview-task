@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/interview-task/static/css/main.8bf24465.css",
-    "main.js": "/interview-task/static/js/main.c5b56114.js",
+    "main.js": "/interview-task/static/js/main.2abd09ad.js",
     "static/media/SFProText-Regular.woff": "/interview-task/static/media/SFProText-Regular.bed50e6ecebd654fa435.woff",
     "static/media/SFProText-Regular.woff2": "/interview-task/static/media/SFProText-Regular.2c278202567f079f9350.woff2",
     "index.html": "/interview-task/index.html",
     "main.8bf24465.css.map": "/interview-task/static/css/main.8bf24465.css.map",
-    "main.c5b56114.js.map": "/interview-task/static/js/main.c5b56114.js.map"
+    "main.2abd09ad.js.map": "/interview-task/static/js/main.2abd09ad.js.map"
   },
   "entrypoints": [
     "static/css/main.8bf24465.css",
-    "static/js/main.c5b56114.js"
+    "static/js/main.2abd09ad.js"
   ]
 }
